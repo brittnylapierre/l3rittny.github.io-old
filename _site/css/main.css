@@ -53,6 +53,13 @@ h1{
 	font-size: 65px;
 }
 
+#social-media-links{
+	width: 538px;
+	position: relative;
+	margin: auto;
+	margin-top: 41px;
+}
+
 #facebook-link{
 	float: left;
 	background-image: url("./img/ico-sm/1458523589_facebook-square-shadow-social-media.png");
