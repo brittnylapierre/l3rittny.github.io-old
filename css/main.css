@@ -1,12 +1,45 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa|Noto+Sans);
 /*font-family: 'Comfortaa', cursive;
 font-family: 'Noto Sans', sans-serif;*/
+.content-manager{
+   position: relative;
+   margin: auto;
+   overflow: auto;
+}
+
+.content-manager > *{
+   margin: auto;
+   max-width: 85vw;
+}
+
+.content-element{
+   padding: 30px;
+   background-color: rgba(0,0,0,0.8);
+   color: white;
+   /*border: 1px solid lightgrey;*/
+}
+
+.footer{
+	position: fixed;
+	width: 100vw;
+	height: 15vh;
+	background-color: black;
+    color: white;
+	bottom: 0px;
+	left: 0px;
+}
+
 body{
 	background-image: url("./img/bg/bokehpeach.jpg");
     background-repeat: repeat;
 	font-family: 'Noto Sans', sans-serif;
 }
+
 h1{
 	font-family: 'Comfortaa', cursive;
 	font-size: 65px;
+}
+
+#main-page-title{
+
 }
