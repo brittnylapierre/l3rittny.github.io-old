@@ -3,26 +3,39 @@
 font-family: 'Noto Sans', sans-serif;*/
 .content-manager{
    position: relative;
+   width:100vw;
    margin: auto;
    overflow: auto;
 }
 
 .content-manager > *{
    margin: auto;
+   margin-top: 30px;
    max-width: 85vw;
 }
 
 .content-element{
    padding: 30px;
+   /*border: 1px solid lightgrey;
    background-color: rgba(0,0,0,0.8);
-   color: white;
-   /*border: 1px solid lightgrey;*/
+   color: white;*/
+}
+
+.page-title{
+	float:left;
+	margin: 0;
+	/*width: 100vw;*/
+	height: 100px;
+    color: black;
+	margin-top: 30px;
+	margin-left: 30px;
 }
 
 .footer{
 	position: fixed;
 	width: 100vw;
-	height: 15vh;
+	height: 10vh;
+	min-height: 70px;
 	background-color: black;
     color: white;
 	bottom: 0px;
@@ -33,13 +46,10 @@ body{
 	background-image: url("./img/bg/bokehpeach.jpg");
     background-repeat: repeat;
 	font-family: 'Noto Sans', sans-serif;
+	margin: 0;
 }
 
 h1{
 	font-family: 'Comfortaa', cursive;
 	font-size: 65px;
-}
-
-#main-page-title{
-
 }
