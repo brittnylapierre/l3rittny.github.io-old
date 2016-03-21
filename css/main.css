@@ -15,7 +15,7 @@ font-family: 'Noto Sans', sans-serif;*/
 	margin: auto;
 	margin-top: 30px;
 	max-width: 90vw;
-	padding: 30px;
+	padding: 50px;
 }
 
 .content-element{
@@ -70,7 +70,11 @@ h1{
 }
 
 #about-me-content{
-	margin-bottom: 140px;
+	margin-bottom: 230px;
+}
+
+#about-me-p{
+	text-align: left;
 }
 
 #tyo-pic{
