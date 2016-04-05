@@ -1,45 +1,52 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa|Noto+Sans);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 /*font-family: 'Comfortaa', cursive;
 font-family: 'Noto Sans', sans-serif;*/
 
-.content-manager{
+/*.content-manager{
 	position: relative;
-	width:95vw;
-	margin: auto;
+	width:64vw;
+	margin: 0;
 	overflow: auto;
-}
+	text-align: center;
+	padding-left: 18vw;
+	padding-right: 18vw;
+}*/
 
-.content-manager > *{
+/*.content-manager > *{
 	margin: auto;
-	margin-top: 30px;
+	margin-top: 2rem;
 	max-width: 95vw;
-	padding: 50px;
+	padding: 2rem;
 }
+*/
 
 .content-element{
-	background-color: white; /*rgba(255, 255, 223, 0.8);
-   background-color: rgba(0,0,0,0.8);
-   color: white;
-   border: 2px solid rgba(48, 32, 62,0.7);*/
-   text-align: center;
+    background-color: white; 
+    /*rgba(255, 255, 223, 0.8);
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    border: 2px solid rgba(48, 32, 62,0.7);*/
+    text-align: center;
 }
 
 .page-title-bar{
 	float:left;
 	margin: 0;
 	width: 100vw;
-	height: 65px;
+	height: 2.2rem;
     color: white;
-    margin-bottom: 60px;
+    margin-bottom: 1rem;
     background-color: black;/*rgba(255, 153, 102, 1.0)*/;
 }
 
 .page-title{
 	float: left;
 	margin:0;
-	margin-top: 5px;
+	margin-top: 0.3rem;
 }
 
 .quote{
@@ -47,36 +54,44 @@ font-family: 'Noto Sans', sans-serif;*/
 }
 
 .footer{
-	position: fixed;
+	float: left;
 	width: 100vw;
-	min-height: 140px;
-	background-color: black;
+	min-height: 5rem;
+	/*background-color: black;
+	\img\txtr\5-Soft-Grunge-Textures
+	*/
+	background-image: url("./img/txtr/dark_wall/dark_wall.png");
+    background-repeat: repeat;
     color: white;
-	bottom: 0px;
-	left: 0px;
+	bottom: 0;
 }
 
 body{
-	background-image: url("./img/bg/geometric2.png");
-    background-repeat: repeat;
+	/*background-image: url("./img/bg/geometric2.png");
+    background-repeat: repeat;overflow-x:hidden;*/
+	overflow-x:hidden;
 	font-family: 'Noto Sans', sans-serif;
 	margin: 0;
-	overflow-x:hidden;
+	padding:0;
 }
 
 h1{
-	padding-left: 20px;
-	font-family: 'Comfortaa', cursive;
-	font-size: 40px;
+	padding-left: 1rem;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.2rem;
 }
 
 #strawberry-header-icon{
-	margin-top: 10px;
+	margin-top: 0.4rem;
+	margin-left: 0.4rem;
 }
 
 #about-me-content{
-	margin-left: 0;
-	margin-bottom: 230px;
+	width: 50rem;
+	float:right;
+	margin: auto;
+	margin-right: 15rem;
+	margin-bottom: 5rem;
 }
 
 #about-me-p{
@@ -94,13 +109,13 @@ h1{
 }
 
 #social-media-links{
-	width: 538px;
+	width: 598px;
 	position: relative;
 	margin: auto;
-	margin-top: 36px;
+	margin-top: 2rem;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	font-size: 12px;
+	font-size: 1em;
 	font-weight: normal;
 }
 
@@ -109,8 +124,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523589_facebook-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #twitter-link{
@@ -118,8 +133,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523597_twitter-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #linkedin-link{
@@ -127,8 +142,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523622_linkedin-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #instagram-link{
@@ -136,8 +151,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523607_instagram-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #github-link{
@@ -145,8 +160,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523497_github-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #spotify-link{
@@ -154,8 +169,8 @@ h1{
 	background-image: url("./img/ico-sm/1458523558_spotify-square-shadow-social-media.png");
 	width: 64px;
 	height: 64px;
-	margin-right: 15px;
-	margin-bottom: 10px;
+	margin-right: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 #deviantart-link{
@@ -164,5 +179,5 @@ h1{
 	width: 64px;
 	height: 64px;
 	margin: auto;
-	margin-bottom: 10px;
+	margin-bottom: 1rem;
 }
