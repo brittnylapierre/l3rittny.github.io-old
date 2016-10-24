@@ -5,7 +5,7 @@
 }
 
 @font-face {
-	font-family: defaultSans;
+    font-family: defaultSans;
     /*src: url(/fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);*/
     /*src: url(/fonts/Didact_Gothic/DidactGothic.ttf);*/
     /*src: url(/fonts/Poiret_One/PoiretOne-Regular.ttf);*/
@@ -14,25 +14,25 @@
 }
 
 .inline {
-	display: inline-block;
+    display: inline-block;
 }
 
 .hidden {	
-	display: none;
+    display: none;
 }
 
 .horiz-flow-container {
-	text-align: center;
+    text-align: center;
 }
 
 .horiz-flow-container > *{
-	display: inline-block;
+    display: inline-block;
 }
 
 .verticle-align {
-	position: relative;
-	top: 50vh;
-	transform: translateY(-50%);
+    position: relative;
+    top: 50vh;
+    transform: translateY(-50%);
 }
 
 /* The side navigation menu */
@@ -69,89 +69,90 @@
 }
 
 #personal-summary > * {
-	margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 #personal-summary h1 {
-	font-weight: normal;
-	text-align: center;
+    font-weight: normal;
+    text-align: center;
 }
 
 #personal-summary h2 {
-	font-weight: normal;
-	text-align: center;
+    font-weight: normal;
+    text-align: center;
 }
 
 #personal-summary h3 {
-	font-weight: normal;
-	text-align: center;
+    font-weight: normal;
+    text-align: center;
 }
 
 #personal-details > * {
 	/*color: #AA00E1;*/
-	color: #0F4AFF;
-	padding-bottom: 5px;
-	border-bottom: solid 1px #0F4AFF;
-	margin-top: 0;
-	margin-right: 20px;
-	margin-left: 20px;
+    color: #0F4AFF;
+    padding-bottom: 5px;
+    border-bottom: solid 1px #0F4AFF;
+    margin-top: 0;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 #social-media-details > * {
-	margin-right: 10px;
-	margin-left: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 #menu-close-icon {
-	float: right;
-	margin-right: 20px;
+    float: right;
+    margin-right: 20px;
 }
 
 #menu, #menu-icon {
-	position: fixed;
+    margin-top: 10px;
+    position: fixed;
 }
 
 #menu {
-	display: inline-block;
-	background-color: white;
-	border-right: 1px solid black;
+    display: inline-block;
+    background-color: white;
+    border-right: 1px solid black;
 
 }
 
 #menu ul {
-	padding: 20px;
-	padding-left: 40px;
-	padding-right: 40px;
-	padding-top: 20px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
 }
 
 #menu li a{
-	//color: #0F4AFF;
-	color: black;
-	text-decoration: none;
-	font-weight: bold;
+    //color: #0F4AFF;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #footer {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	background-color: white;
-	font-size: 0.8rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    font-size: 0.8rem;
 }
 
 #footer > * {
-	margin-right: 10px;
-	margin-left: 10px;
-	padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
 }
 
 nav ul {
-	list-style-type: none;
+    list-style-type: none;
 }
 
 body {
-	margin: 0;
-	padding: 0;
-	font-family: defaultSans;
+    margin: 0;
+    padding: 0;
+    font-family: defaultSans;
 }
