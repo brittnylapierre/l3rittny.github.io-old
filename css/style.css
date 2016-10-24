@@ -1,16 +1,16 @@
 @font-face {
     font-family: defaultSerif;
-    /*src: url(./fonts/Abhaya_Libre/AbhayaLibre-Regular.ttf);*/
-    src: url(./fonts/Trirong/Trirong-Regular.ttf);
+    /*src: url(/fonts/Abhaya_Libre/AbhayaLibre-Regular.ttf);*/
+    src: url(/fonts/Trirong/Trirong-Regular.ttf);
 }
 
 @font-face {
 	font-family: defaultSans;
-    /*src: url(./fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);*/
-    /*src: url(./fonts/Didact_Gothic/DidactGothic.ttf);*/
-    /*src: url(./fonts/Poiret_One/PoiretOne-Regular.ttf);*/
-    /*src: url(./fonts/Raleway/Raleway-Regular.ttf);*/
-    src: url(./fonts/Quicksand/Quicksand-Regular.ttf); /*like*/
+    /*src: url(/fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);*/
+    /*src: url(/fonts/Didact_Gothic/DidactGothic.ttf);*/
+    /*src: url(/fonts/Poiret_One/PoiretOne-Regular.ttf);*/
+    /*src: url(/fonts/Raleway/Raleway-Regular.ttf);*/
+    src: url(/fonts/Quicksand/Quicksand-Regular.ttf); /*like*/
 }
 
 .inline {
