@@ -59,6 +59,11 @@
     .sidenav a {font-size: 18px;}
 }
 
+#content {
+    width: 100%;
+    height: 100%;
+}
+
 #personal-summary {
     z-index: 5;
     transition: margin-left .5s;
