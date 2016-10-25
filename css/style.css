@@ -115,7 +115,7 @@
 }
 
 #menu-icon {
-    z-index: 5; /* Stay on top */
+    z-index: 15; /* Stay on top */
     margin-top: 10px;
 }
 
