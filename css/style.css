@@ -116,6 +116,7 @@
 #menu-icon {
     z-index: 15;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 #menu, #menu-icon {
