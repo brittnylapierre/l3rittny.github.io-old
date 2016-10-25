@@ -87,12 +87,12 @@
     text-align: center;
 }
 
-#personal-details > * {
-	/*color: #AA00E1;*/
+#section-menu > * {
+	/*color: #AA00E1;
     color: #0F4AFF;
     padding-bottom: 5px;
     border-bottom: solid 1px #0F4AFF;
-    margin-top: 0;
+    margin-top: 0;*/
     margin-right: 20px;
     margin-left: 20px;
 }
