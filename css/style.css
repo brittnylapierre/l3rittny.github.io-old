@@ -87,6 +87,11 @@
     text-align: center;
 }
 
+#section-menu {
+    position: fixed;
+    top: 0;
+}
+
 #section-menu > * {
 	/*color: #AA00E1;
     color: #0F4AFF;
