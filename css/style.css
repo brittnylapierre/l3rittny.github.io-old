@@ -185,6 +185,7 @@
   background-image: url("/img/me.png");
   background-size: cover;
   border: 1px solid darkgrey;
+  margin: 0;
 }
 
 #section-menu {
