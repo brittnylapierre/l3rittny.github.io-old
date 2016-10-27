@@ -179,6 +179,7 @@
 }
 
 #my-image {
+  display: inline-block;
   width: 15rem;
   height: 15rem;
   background-image: url("/img/me.png");
