@@ -178,6 +178,10 @@
     text-align: center;
 }
 
+#my-image {
+  transform: rotateY(180deg);
+}
+
 #section-menu {
     position: fixed;
     top: 0;
