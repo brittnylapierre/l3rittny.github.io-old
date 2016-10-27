@@ -181,7 +181,8 @@
 #my-image {
   width: 10rem;
   height: 15rem;
-  background-image: url('/img/DSC_0043.JPG');
+  background-image: url('/img/DSC_0043.JPG') no-repeat center;
+  background-size: cover;
   /*just cause the image is flipped*/
   transform: rotateY(180deg);
 }
