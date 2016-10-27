@@ -181,8 +181,9 @@
 #my-image {
   width: 15rem;
   height: 15rem;
-  background-image: url("/img/DSC_0043.JPG");
+  background-image: url("/img/me.jpg");
   background-size: cover;
+  border: 1px solid darkgrey;
 }
 
 #section-menu {
