@@ -181,7 +181,7 @@
 #my-image {
   width: 15rem;
   height: 15rem;
-  background-image: url("/img/me.jpg");
+  background-image: url("/img/me.png");
   background-size: cover;
   border: 1px solid darkgrey;
 }
