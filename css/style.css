@@ -250,6 +250,10 @@
     padding: 10px;
 }
 
+#footer a {
+    text-decoration: underline;
+}
+
 nav ul {
     list-style-type: none;
 }
