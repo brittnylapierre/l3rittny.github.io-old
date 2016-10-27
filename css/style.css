@@ -240,14 +240,14 @@
     bottom: 0;
     width: 100%;
     background-color: white;
-    font-size: 10px;
+    font-size: 14px;
     z-index: 10;
 }
 
 #footer > * {
     margin-right: 10px;
     margin-left: 10px;
-    padding: 14px;
+    padding: 10px;
 }
 
 nav ul {
