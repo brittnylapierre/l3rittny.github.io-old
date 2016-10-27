@@ -157,6 +157,7 @@
     z-index: 5;
     transition: margin-left .5s;
     padding: 20px;
+    text-align: center;
 }
 
 #personal-summary > * {
