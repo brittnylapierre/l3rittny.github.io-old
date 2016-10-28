@@ -115,6 +115,14 @@ hr.small {
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
+  .navbar-custom .navbar-brand {
+    /*color: white;*/
+    padding: 20px;
+  }
+  .navbar-custom .nav li a {
+    /*color: white;*/
+    padding: 20px;
+  }
 }
 .intro-header {
   background: no-repeat center center;
