@@ -1,13 +1,14 @@
 # Site settings
-title: Code & Cappuccinos
+title: Code and Cappuccinos
+brand: Code & Cappuccinos
 header-img: img/backpack.png
-email: brittny.lapierre@gmail.com
+email: codeandcappuccinos@gmail.com
 copyright_name: Code & Cappuccinos
 description: "A blog with an author who loves to code, and drink cappuccinos."
 baseurl: ""
-url: "http://blog.codeandcappuccinos.com/"
+url: "http://www.codeandcappuccinos.com/"
 twitter_username: "@codeandcapps"
-instagram_username: codeandcappas
+instagram_username: codeandcapps
 github_username:  l3rittny
 facebook_username:  Brittny Lapierre
 email_username:  "codeandcappuccinos@gmail.com"
@@ -23,4 +24,4 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
