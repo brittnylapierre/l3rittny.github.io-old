@@ -1,4 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
 {% include head.html %}
-{% include nav.html %}
-    {{content}}
-{% include foot.html %}
+
+<body>
+    
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% if page.home %}
+    {% include foot.html %}
+    {% else %}
+    {% include footer.html %}
+    {% endif %}
+    {% include ga.html %}
+
+</body>
+
+</html>
