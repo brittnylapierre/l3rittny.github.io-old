@@ -57,7 +57,7 @@ hr.small {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 3;
+  z-index: 30;
   font-family: defaultSans; /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 }
 .navbar-custom .navbar-brand {
@@ -75,20 +75,20 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    /*color: white;*/
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    /*color: rgba(255, 255, 255, 0.8);*/
   }
   .navbar-custom .nav li a {
-    color: white;
+    /*color: white;*/
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    /*color: rgba(255, 255, 255, 0.8);*/
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -269,6 +269,24 @@ hr.small {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: #333;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #333;
+    border-color: #383838;
+}
+
+/*.btn.focus, .btn:focus, .btn:hover {
+    color: #333;
+    text-decoration: none;
+}*/
+
 footer {
   padding: 50px 0 65px;
 }
