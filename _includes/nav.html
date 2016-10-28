@@ -19,15 +19,8 @@
 		    <a href="http://www.codeandcappuccinos.com/">Home</a>
 		</li>
                 <li>
-                    <a href="http://blog.codeandcappuccinos.com">Blog</a>
+                    <a href="http://blog.codeandcappuccinos.com/">Blog</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
-		    {% if page.url != '/404.html' %}
-                        <li>
-                            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                        </li>
-		    {% endif %}
-                {% endif %}{% endfor %}
               	<li>
                     <a href="http://blog.codeandcappuccinos.com/about/">About</a>
                 </li>
