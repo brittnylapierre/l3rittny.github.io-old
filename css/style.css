@@ -13,10 +13,6 @@
     src: url(/fonts/Quicksand/Quicksand-Regular.ttf); /*like*/
 }
 
-.img-responsive{
-    cursor: pointer;
-}
-
 .inline {
     display: inline-block;
 }
@@ -179,6 +175,10 @@
 
 #footer a {
     text-decoration: underline;
+}
+
+a img {
+    cursor: pointer;
 }
 
 nav ul {
