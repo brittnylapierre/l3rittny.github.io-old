@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 @font-face {
     font-family: defaultSerif;
     /*src: url(/fonts/Abhaya_Libre/AbhayaLibre-Regular.ttf);*/
@@ -11,6 +13,18 @@
     /*src: url(/fonts/Poiret_One/PoiretOne-Regular.ttf);*/
     /*src: url(/fonts/Raleway/Raleway-Regular.ttf);*/
     src: url(/fonts/Quicksand/Quicksand-Regular.ttf); /*like*/
+}
+
+.numbered-article-list {
+    list-style-type: decimal;
+}
+
+.intro-header .post-heading .subheading, .intro-header .post-heading .meta {
+    font-weight: 400; 
+}
+
+.subheading {
+    font-weight: 400;
 }
 
 .inline {
@@ -194,6 +208,15 @@
 
 #footer a {
     text-decoration: underline;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: Raleway;/*, sans-serif;*/
+    font-weight: normal;
+}
+
+p {
+    margin-top: 5px;
 }
 
 a img {
