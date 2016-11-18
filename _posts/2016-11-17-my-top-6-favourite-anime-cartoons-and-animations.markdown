@@ -16,9 +16,9 @@ If you also love the anime, definitely read the books, or at least the last few 
 
 <h3>2) Avatar: The Last Airbender</h3><p>
 <img src="/img/airbender.jpg">
-Guysssss...<br><br>
-Guysssssssssss...<br><br>
-BENDING IS SOO COOL!<br><br>
+Guysssss...<br>
+Guysssssssssss...<br>
+BENDING IS SOO COOL!<br>
 I was so late in the game to watch this series but man am I ever glad I did! I just finished it with Steven a couple weeks ago. As a 21 year old, it seemed a little kiddish at first but it soons grows on you and gets more deep and real. It's about courage, oppression, duty, family, friendship, forgivingness, identity, and training... just about everything. The characters are relatable, and inspirational and it's full of strong female role models too! The cartoon shows the journey of Aang, the last of the Air Bending Nation. Aang is also the Avatar, the one bender of every generation that can master all four elements, earth, water, air, and fire. The airbenders were wiped out by the Fire Nation during their conquest. Aang has to become a master of all of the elements and defeat the Fire Lord and restore balance to the world with the help of his friends.</p>
 
 <h3>3) Avatar: The Legend of Korra</h3>
