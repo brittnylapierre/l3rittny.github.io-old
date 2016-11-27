@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "I'm Not Very Good at This..."
+subtitle:   "Yet."
+date:       2016-10-27 02:30:00
+author:     "Brittny Lapierre"
+header-img: "img/DSC_0043.JPG"
+---
+<h3>Welcome to my online journal.</h3>
+<p>Or blog as they call it.</p>
+<p>The concept of me writing down my thoughts and publishing them online is very new and strange to me. I feel as time goes by and I become more comfortable, my posts will become better and better. For now though, you're stuck with newbie Brittny.</p>
