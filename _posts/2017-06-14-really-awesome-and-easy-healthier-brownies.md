@@ -8,6 +8,7 @@ header-img: "img/20170611_164850.jpg"
 ---
 <p>Recipe first, ramble later.</p>
 
+<h3>Ingredients:</h3>
 <ul>
   <li>1/2 cup peanut flour</li>
   <li>1/2 cup vanilla Vega One or any other protein powder</li>
@@ -22,6 +23,7 @@ header-img: "img/20170611_164850.jpg"
   <li>1 tsp warmed coconut oil or "manna" (blended coconut - soooo good)</li>
 </ul>
 
+<h3>Steps:</h3>
 <p>1. Preheat oven to 350F.</p>
 <p>2. Combine the dry ingredients first, making sure that you get and many of the clumps out of the peanut flour as you can.</p>
 <p>3. Make a hole in the center (shove everything off to the sides) and pour in your 1 cup of milk, then the vinilla, honey, and coconut oil</p>
