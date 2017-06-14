@@ -4,22 +4,22 @@ title:      "Really Awesome and Easy Healthier Brownies"
 subtitle:   "yummmmmmm"
 date:       2017-06-14 13:00:00
 author:     "Brittny Lapierre"
-header-img: "img/water-color-liquid-pink-66279.jpeg"
+header-img: "img/20170611_164850.jpg"
 ---
 <p>Recipe first, ramble later.</p>
 
 <ul>
   <li>1/2 cup peanut flour</li>
   <li>1/2 cup vanilla Vega One or any other protein powder</li>
-  <l1>3-5 Tbsp Cocao Powder</li>
-  <li>2Tbsp flour of choice</li>
-  <li>6 packets of stevia powder (6 grams) (you can add more or less if you want to adjust the sweetness)</li>
+  <l1>3-5 Tbsp cacao/cocoa powder</li>
+  <li>~2Tbsp flour of choice (I used oat flour)</li>
+  <li>~6 packets of stevia powder (6 grams) (you can add more or less if you want to adjust the sweetness)</li>
   <li>1 tsp baking powder</li>
   <li>1/2 Tsp salt</li>
   <li>1 cup milk or milk subsitute of choice (or even water if you don't have anything)<l/i>
-  <li>1 tsp pure vanilla extract</li>
+  <li>1 tsp vanilla extract</li>
   <li>1 tsp honey</li>
-  <li>1 tsp warmed coconut oil or "mana" (blended coconut - soooo good)</li>
+  <li>1 tsp warmed coconut oil or "manna" (blended coconut - soooo good)</li>
 </ul>
 
 <p>1. Preheat oven to 350F.</p>
@@ -30,3 +30,13 @@ header-img: "img/water-color-liquid-pink-66279.jpeg"
 <p>6. Put it in the oven for 20-25 minutes then let it cool until you cant wait any longer!</p>
 
 <a href="http://www.nononsensenutritionist.com/recipes/snacksandsweets/peanut-flour-pb2-protein-bars/">Adapted from this recipe by No Nonsense Nutritionist</a>
+
+<h3>Ramble</h3>
+<p>So I've started working out more because my job has me sitting down all day and I've been noticing an increase in cellulite on my legs. (No thanks!) In an effort to try and save money on one of my favourite go to snacks -protien bars I came across the recipe linked above. I decided to try it out but in true Brittny-like fashion I improvised a bit nd they turned out more like brownies than anything else! If you love chocolate and need a post workout pick me up (or you just crave chocolate) give this recipe a go! I'm not a professional baker or anything but it tasted really good to me :D</p>
+
+<h3>Here are some pics to help you out</h3>
+<p>What consistancy my batter was - tastes better than it looks at this point haha:</p>
+<img src="/img/20170611_160105.jpg">
+
+<p>Products I used:</p>
+<img src="/img/20170611_160119.jpg">
