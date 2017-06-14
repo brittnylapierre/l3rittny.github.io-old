@@ -14,7 +14,7 @@ header-img: "img/water-color-liquid-pink-66279.jpeg"
   <l1>3-5 Tbsp Cocao Powder</li>
   <li>2Tbsp flour of choice</li>
   <li>6 packets of stevia powder (6 grams) (you can add more or less if you want to adjust the sweetness)</li>
-  <li>1 tsp baking powder<li>
+  <li>1 tsp baking powder</li>
   <li>1/2 Tsp salt</li>
   <li>1 cup milk or milk subsitute of choice (or even water if you don't have anything)<l/i>
   <li>1 tsp pure vanilla extract</li>
