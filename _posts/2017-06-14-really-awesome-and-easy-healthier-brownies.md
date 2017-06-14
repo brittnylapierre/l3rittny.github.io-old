@@ -12,7 +12,7 @@ header-img: "img/20170611_164850.jpg"
 <ul>
   <li>1/2 cup peanut flour</li>
   <li>1/2 cup vanilla Vega One or any other protein powder</li>
-  <l1>3-5 Tbsp cacao/cocoa powder</li>
+  <li>3-5 Tbsp cacao/cocoa powder</li>
   <li>~2Tbsp flour of choice (I used oat flour)</li>
   <li>~6 packets of stevia powder (6 grams) (you can add more or less if you want to adjust the sweetness)</li>
   <li>1 tsp baking powder</li>
