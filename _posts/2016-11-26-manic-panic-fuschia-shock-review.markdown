@@ -10,7 +10,7 @@ header-img: "img/water-color-liquid-pink-66279.jpeg"
 
 <img src="/img/mpfs.jpg">
 
-<p>I died my hair with Joico's Rose semi-permanent dye for Halloween. Oh god was that stuff ever horrible. The colour was a pale pink which was good since that's what I wanted but it washed out super fast leaving my hair peach coloured, which I don't mind. The main problem with the dye is that for some reason they decided to put glitter in it. GLITTER!! -_- Why would they do that? They were large enough flakes that it wouldn't just make my hair look shiny either. Man, there was glitter everywhere for days after I died it.</p>
+<p>I died my hair with Joico's Rose semi-permanent dye for Halloween. Oh god was that stuff ever horrible. The colour was a pale pink which was good since that's what I wanted but it washed out super fast leaving my hair peach coloured, which I don't mind. The main problem with the dye is that for some reason they decided to put glitter in it. GLITTER!! -_- Why would they do that? They were large enough flakes that it wouldn't just make my hair look shiny either. Man, there was glitter everywhere for days after I dyed it.</p>
 
 <p>Anyways once that faded out I was left with yellow blonde-peach hair. I had some leftover Manic Panic in the colour Fuschia Shock from when I dyed my hair last winter so I decided to use it. I didn't have much left so I mixed it with conditioner. The result was a really vibrant (like a highlighter) dark pink, it was really nice!  It was lighter than I remembered from last year though, the reason for that was because I mixed it with conditioner. </p>
 
