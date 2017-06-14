@@ -6,7 +6,7 @@ date:       2017-06-14 13:00:00
 author:     "Brittny Lapierre"
 header-img: "img/water-color-liquid-pink-66279.jpeg"
 ---
-<p>Recipie first, ramble later.</p>
+<p>Recipe first, ramble later.</p>
 
 <ul>
   <li>1/2 cup peanut flour</li>
@@ -29,4 +29,4 @@ header-img: "img/water-color-liquid-pink-66279.jpeg"
 <p>5. Put parchment paper down in a 9x9 inch pan (or grease the pan) and squish your mixture into it.</p>
 <p>6. Put it in the oven for 20-25 minutes then let it cool until you cant wait any longer!</p>
 
-<a href="http://www.nononsensenutritionist.com/recipes/snacksandsweets/peanut-flour-pb2-protein-bars/">Adapted from this recipie by No Nonsense Nutritionist</a>
+<a href="http://www.nononsensenutritionist.com/recipes/snacksandsweets/peanut-flour-pb2-protein-bars/">Adapted from this recipe by No Nonsense Nutritionist</a>
