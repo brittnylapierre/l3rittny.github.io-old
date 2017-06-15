@@ -26,7 +26,7 @@ header-img: "img/20170611_164850.jpg"
 <h3>Steps:</h3>
 <p>1. Preheat oven to 350F.</p>
 <p>2. Combine the dry ingredients first, making sure that you get and many of the clumps out of the peanut flour as you can.</p>
-<p>3. Make a hole in the center (shove everything off to the sides) and pour in your 1 cup of milk, then the vinilla, honey, and coconut oil</p>
+<p>3. Make a hole in the center (shove everything off to the sides) and pour in your 1 cup of milk, then the vanilla, honey, and coconut oil</p>
 <p>4. Mix the wet incredients in until you get a consitency that's not as wet as browney batter but not as dry as a paste. Somewhere in between is perfect.</p>
 <p>5. Put parchment paper down in a 9x9 inch pan (or grease the pan) and squish your mixture into it.</p>
 <p>6. Put it in the oven for 20-25 minutes then let it cool until you cant wait any longer!</p>
