@@ -13,6 +13,9 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
   color: #404040;
+  background-image: url('../img/patterns/memphis-colorful.png');
+  background-repeat: repeat;
+  background-attachment: fixed;
 }
 p {
   line-height: 1.5;
@@ -52,7 +55,7 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background: white;
+  background-color: rgba(250, 245, 245, 0.9);
   position: absolute;
   top: 0;
   left: 0;
@@ -87,7 +90,7 @@ hr.small {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(250, 245, 245, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
@@ -132,7 +135,7 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -274,7 +277,9 @@ hr.small {
 }*/
 
 footer {
+  background-color: #faf5f5;/*fcfcfc;*/
   padding: 50px 0 65px;
+  border-top: 1px solid #f2f2f2;
 }
 footer .list-inline {
   margin: 0;
@@ -409,4 +414,19 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #F17676;
+}
+
+
+.white-space {
+  background: white;
+  padding: 40px 20px;
+  /*width: 85%;
+  margin:auto;
+  background: white;
+  min-height: 100vh;
+  padding: 40px 20px;
+  border-left: 1px solid #f8f8f8 !important;
+  border-right: 1px solid #f8f8f8 !important;
+  border-radius: 1px !important;
+  background-color: #fdfdfd !important*/
 }
