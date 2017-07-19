@@ -31,7 +31,7 @@
     display: inline-block;
 }
 
-.hidden {	
+.hidden {   
     display: none;
 }
 
@@ -81,13 +81,16 @@
 #personal-summary {
     z-index: 5;
     transition: margin-left .5s;
-    padding: 20px;
-  	padding-top:20vh;
+    padding: 30px 20px;
     text-align: center;
-}
-
-#personal-summary > * {
-    margin-bottom: 50px;
+    width: 35%;
+    background: white;
+    margin: auto;
+    margin-top: 16vh;
+    margin-bottom: 8vh;
+    border: 1px solid #f8f8f8 !important;
+    border-radius: 1px !important;
+    background-color: #fdfdfd !important;
 }
 
 #personal-summary h1 {
@@ -98,11 +101,17 @@
 #personal-summary h2 {
     font-weight: normal;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 25px;
 }
 
 #personal-summary h3 {
     font-weight: normal;
     text-align: center;
+    font-size: 19px;
+    padding-top: 15px;
+    /*border-top: 1px solid #edc8c8 !important;*/
 }
 
 #my-image {
@@ -111,9 +120,10 @@
   height: 15rem;
   background-image: url("/img/brittny.jpg");
   background-size: cover;
-  border: 1px solid darkgrey;
+  /*border: 1px solid darkgrey;*/
   margin: 0;
   border-radius: 50%;
+  border: 4px solid #edc8c8 !important;
 }
 
 #section-menu {
