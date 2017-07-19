@@ -113,6 +113,7 @@
   background-size: cover;
   border: 1px solid darkgrey;
   margin: 0;
+  border-radius: 50%;
 }
 
 #section-menu {
