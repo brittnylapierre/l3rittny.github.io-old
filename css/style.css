@@ -80,30 +80,40 @@
 
 #personal-summary {
     z-index: 5;
+    width:100%;
     transition: margin-left .5s;
-    padding: 30px 20px;
     text-align: center;
-    width: 35%;
-    background: white;
     margin: auto;
-    margin-top: 16vh;
-    margin-bottom: 8vh;
     border: 1px solid #f8f8f8 !important;
     border-radius: 1px !important;
-    background-color: #fffbfb !important;
+} 
+
+@media(min-width:548px){ 
+    #personal-summary {
+        /*adding: 40px 20px 100px 20px;*/
+        padding: 10vh 0;
+        text-align: center;
+        margin-top: 60px;
+        padding-bottom: 15vh;
+        background-color: #ffffff !important;
+    }
 }
 
-@media(max-width:768px){
-  #personal-summary {
-    width:50%;
-  }  
+@media(max-width:768px){ 
+    #personal-summary {
+        margin-top: 50px;
+    }
 }
 
-@media(max-width:548px){
-  #personal-summary {
-    width:100%;
-  }  
+@media(max-width:548px){ 
+    #personal-summary {
+        padding: 30px 20px;
+        margin-top: 16vh;
+        margin-bottom: 8vh;
+        background-color: #fffbfb !important;
+    }
 }
+
 
 #personal-summary h1 {
     font-weight: normal;

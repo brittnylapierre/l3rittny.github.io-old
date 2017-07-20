@@ -277,10 +277,19 @@ hr.small {
 }*/
 
 footer {
-  background-color: #faf5f5;/*fcfcfc;*/
+  background-color: rgba(250, 245, 245, 0.69);
   padding: 50px 0 65px;
   border-top: 1px solid #f2f2f2;
 }
+
+@media(max-width:548px){ 
+  footer {
+    background-color: #faf5f5;/*fcfcfc;*/
+    padding: 50px 0 65px;
+    border-top: 1px solid #f2f2f2;
+  }
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;

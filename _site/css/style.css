@@ -80,30 +80,40 @@
 
 #personal-summary {
     z-index: 5;
+    width:100%;
     transition: margin-left .5s;
-    padding: 30px 20px;
     text-align: center;
-    width: 35%;
-    background: white;
     margin: auto;
-    margin-top: 16vh;
-    margin-bottom: 8vh;
     border: 1px solid #f8f8f8 !important;
     border-radius: 1px !important;
-    background-color: #fdfdfd !important;
+} 
+
+@media(min-width:548px){ 
+    #personal-summary {
+        /*adding: 40px 20px 100px 20px;*/
+        padding: 10vh 0;
+        text-align: center;
+        margin-top: 60px;
+        padding-bottom: 15vh;
+        background-color: #ffffff !important;
+    }
 }
 
-@media(max-width:768px){
-  #personal-summary {
-    width:50%;
-  }  
+@media(max-width:768px){ 
+    #personal-summary {
+        margin-top: 50px;
+    }
 }
 
-@media(max-width:548px){
-  #personal-summary {
-    width:100%;
-  }  
+@media(max-width:548px){ 
+    #personal-summary {
+        padding: 30px 20px;
+        margin-top: 16vh;
+        margin-bottom: 8vh;
+        background-color: #fffbfb !important;
+    }
 }
+
 
 #personal-summary h1 {
     font-weight: normal;
@@ -122,14 +132,14 @@
     font-weight: normal;
     text-align: center;
     font-size: 19px;
-    padding-top: 15px;
+    padding-top: 0px;
     /*border-top: 1px solid #edc8c8 !important;*/
 }
 
 #my-image {
   display: inline-block;
-  width: 15rem;
-  height: 15rem;
+  width: 16rem;
+  height: 16rem;
   background-image: url("/img/brittny.jpg");
   background-size: cover;
   margin: 0;
