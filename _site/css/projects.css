@@ -10,6 +10,12 @@
   padding-bottom: 60px;
 }
 
+@media(max-width: 1280px){
+  .projects {
+    justify-content: flex-start !important;
+  }
+}
+
 figure.snip0051 {
   font-family: 'Raleway', Arial, sans-serif;
   position: relative;
@@ -20,7 +26,7 @@ figure.snip0051 {
   max-width: 400px;
   max-height: 200px;
   width: 100%;
-  /*background: #000000;*/
+  background: rgba(0, 0, 0, 0.46);
 }
 figure.snip0051 * {
   -webkit-box-sizing: border-box;
@@ -148,4 +154,21 @@ body {
 
 figure.snip0051 .icons a i {
   margin-right:10px;
+}
+
+@media (max-width: 450px){
+  figure.snip0051 figcaption h2 {
+      font-size: 1em;
+      bottom: 20%;
+      right: 0;
+      font-weight: 300;
+      text-transform: uppercase;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  figure.snip0051:after {
+    left: 44%;
+    height: 15px;
+    width: 15px;
+  }
 }
