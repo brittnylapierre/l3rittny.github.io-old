@@ -8,12 +8,20 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/clean-blog.css">
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/css/projects.css">
 
 	<link rel="icon" href="/icons/icon.ico" type="image/ico"/>
 
 	<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
 	<script src="http://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E="   crossorigin="anonymous"></script>
-	<script src="/js/script.js"></script>
+
+	<!--FONT AWESOME ICONS-->
+	<script src="https://use.fontawesome.com/b76b278215.js"></script>
+
+
+	<!--Particle js-->
+	<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
 	<!-- Begin Jekyll SEO tag v2.0.0 -->
 <title>Code and Cappuccinos - Code and Cappuccinos</title>
 <meta property="og:title" content="Code and Cappuccinos" />
@@ -112,32 +120,72 @@
 </nav>
 
 
-            <div id="content">
-          <div id="personal-summary"> <!--class="verticle-align"-->
-            <div id="my-image"></div>
-            <h2>Brittny Lapierre</h2>  
-            <h3 style="font-family:defaultSans;">UX Enthusiast <br> & <br> Full Stack Developer</h3>
-              <!--div id="social-media-details" class="horiz-flow-container">
-                  <a target="_blank" href="https://github.com/l3rittny">
-                      <img src="/icons/black/GitHub.png" alt="GitHub" height="42" width="42">
-                  </a>
-                  <a target="_blank" href="https://ca.linkedin.com/in/brittny-lapierre-361686b2">
-                      <img src="/icons/black/LinkedIn.png" alt="LinkedIn" height="42" width="42">
-                  </a>
-                  <a target="_blank" href="https://twitter.com/codeandcapps">
-                      <img src="/icons/black/Twitter.png" alt="Twitter" height="42" width="42">
-                  </a>         
-                  <a target="_blank" href="https://www.instagram.com/codeandcapps/">
-                      <img src="/icons/black/Instagram Old.png" alt="Instagram" height="42" width="42">
-                  </a>
-              </div-->
-          </div>
-        </div>
+    <div id="particles-js" class="particles-js"></div>
 
+
+<div class="container-fluid home-content">
+  <div class="me-card">
+	<img src="/img/meee.jpg" width="200" height="200"></img>
+	<h2>Brittny Lapierre</h2>  
+	<h3 style="font-family:defaultSans;">UX Enthusiast <br> & <br> Full Stack Developer</h3>
+</div>
+  
+<div class="projects">
+  <figure class="snip0051">
+    <img src="/img/ccss.png" alt="portfolio item 1 - CCSS Website"/> 
+    <div class="icons">
+      <a href="http://ccss.carleton.ca" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i> View</a>
+    </div>
+    <figcaption>
+      <h2>CCSS <span>WEBSITE</span></h2> 
+      <!--p>Why can't I ever build character at a Miami condo or a casino somewhere?</p-->
+    </figcaption> 
+  </figure>
+
+  <figure class="snip0051">
+    <img src="/img/cuhacking_alt.png" alt="portfolio item 2 - CU Hacking Website"/> 
+    <div class="icons">
+      <a href="https://github.com/CUHacking/website"  target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i> View</a>
+    </div>
+    <figcaption>
+      <h2>CUHacking <span>WEBSITE</span></h2>
+      <!--p>Why can't I ever build character at a Miami condo or a casino somewhere?</p-->
+    </figcaption>     
+  </figure>
+
+  <figure class="snip0051">
+    <img src="/img/sandrcreations.png" alt="portfolio item 3 - s and r creations"/> 
+    <div class="icons">
+      <a href="http://www.sandrcreations.com" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i> View</a>
+    </div>
+    <figcaption>
+      <h2>S & R <span>CREATIONS</span></h2>
+      <!--p>Why can't I ever build character at a Miami condo or a casino somewhere?</p-->
+    </figcaption>     
+  </figure>
+</div>
+
+
+<script>
+    /* Demo purposes only */  
+$("figure").mouseleave(
+  function () {
+    $(this).removeClass("hover");
+  }
+);
+</script>
+
+
+</div>
+
+
+
+<!--Particle js-->
+<script src="/js/particles_settings.js"></script>
 
     <!-- Footer -->
 <footer>
-    <div class="container">
+    <div class="pink">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
