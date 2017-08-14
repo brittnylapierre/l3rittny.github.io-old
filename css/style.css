@@ -86,17 +86,17 @@
     justify-content: flex-start;
     flex-direction: column;
     text-align: left;
-    max-width: 300px;
+    max-width: 250px;
     margin: 0;
     align-self: flex-start;
     vertical-align: top;
-    margin-right:1%;
+    margin-left:1%;
 }
 
 .me-card h2 {
     color: grey;
     font-weight: bold;
-    font-size: 37px;
+    font-size: 32px;
 }
 
 .me-card h3 {

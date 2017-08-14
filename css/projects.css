@@ -2,7 +2,7 @@
 @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
 
 .projects {
-  max-width: 1000px;
+  max-width: 900px;
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: flex-end;
