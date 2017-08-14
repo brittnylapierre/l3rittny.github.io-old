@@ -20,7 +20,7 @@ figure.snip0051 {
   max-width: 400px;
   max-height: 200px;
   width: 100%;
-  /*background: #000000;*/
+  background: rgba(0, 0, 0, 0.46);
 }
 figure.snip0051 * {
   -webkit-box-sizing: border-box;
